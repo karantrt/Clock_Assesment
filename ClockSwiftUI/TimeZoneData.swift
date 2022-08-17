@@ -26,4 +26,3 @@ struct TimeZoneData: Codable, Hashable {
     var timestamp: Int?
 }
 
-// var url = 
